@@ -1,0 +1,39 @@
+Alex Mercer
+Email: alex.mercer@example.com | Phone: +1-555-019-2831
+LinkedIn: linkedin.com/in/alexmercer-dev | GitHub: github.com/alexmercer-code
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Software Engineer with 6+ years of experience designing and deploying scalable web applications, microservices, and AI-enabled software solutions. Proficient in Python, TypeScript, React, and cloud platforms with a strong background in distributed systems and CI/CD pipelines.
+
+CORE COMPETENCIES & TECHNICAL SKILLS
+- Programming Languages: Python, JavaScript, TypeScript, Go, SQL, Bash
+- Frameworks & Web Tech: React, Node.js, FastAPI, Django, Express, REST API, GraphQL
+- Cloud & Infrastructure: AWS (Lambda, ECS, S3, RDS), Docker, Kubernetes, CI/CD, GitHub Actions, Terraform
+- Databases: PostgreSQL, Redis, MongoDB
+- AI & Data: PyTorch, Pandas, Scikit-learn, LangChain, RAG
+- Methodologies: Agile, Scrum, TDD, Clean Code, System Design
+
+WORK EXPERIENCE
+
+Senior Software Engineer | TechNova Solutions | 2021 – Present
+- Architected and built high-performance microservices using FastAPI and PostgreSQL, serving 2M+ active monthly users with 99.98% uptime.
+- Led the integration of LLM-based Retrieval-Augmented Generation (RAG) pipelines using LangChain and Redis vector search, improving customer support automation response rates by 42%.
+- Streamlined deployment workflows by implementing automated CI/CD pipelines with GitHub Actions and Docker, reducing release cycle time by 60%.
+- Mentored junior engineers, conducted architectural code reviews, and championed unit testing and TDD across three agile teams.
+
+Software Engineer | CloudScale Systems | 2018 – 2021
+- Developed responsive web interfaces using React, TypeScript, and Redux, enhancing user engagement metrics by 25%.
+- Implemented asynchronous REST APIs and background workers using Python and Celery.
+- Managed and scaled database operations on AWS RDS PostgreSQL with Redis caching layers.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley | Graduated 2018
+
+PROJECTS
+- AI Document Intelligence Platform: Open-source document parsing engine built with Python, PyTorch, and FastAPI.
+- Cloud Monitoring Dashboard: Real-time telemetry dashboard using React and GraphQL.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate

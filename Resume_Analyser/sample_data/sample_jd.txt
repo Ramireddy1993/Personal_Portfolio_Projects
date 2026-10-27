@@ -1,0 +1,25 @@
+Job Title: Senior Full-Stack & AI Engineer
+Company: Apex Innovations
+Location: Remote / Hybrid
+
+About The Role:
+Apex Innovations is seeking a talented Senior Full-Stack & AI Engineer to build next-generation intelligent platforms. You will lead the engineering of mission-critical cloud applications, develop AI-powered services, and collaborate closely with product and data engineering teams.
+
+Key Responsibilities:
+- Design, build, and maintain robust, scalable APIs and microservices using Python and FastAPI or Django.
+- Develop interactive, high-performance web frontends using React, TypeScript, and modern state management.
+- Integrate AI / LLM capabilities, prompt workflows, and retrieval-augmented generation (RAG) architectures into product workflows.
+- Manage cloud infrastructure and CI/CD automation on AWS utilizing Docker and Kubernetes (k8s).
+- Maintain high code quality through automated unit testing, TDD, code reviews, and continuous improvement.
+- Partner with cross-functional stakeholders in an Agile/Scrum environment.
+
+Required Qualifications & Skills:
+- 5+ years of experience in modern full-stack software development.
+- Strong proficiency in Python and JavaScript/TypeScript.
+- Hands-on experience with modern frontend frameworks (React, Next.js).
+- Deep experience with backend frameworks (FastAPI, Flask, or Node.js) and REST APIs.
+- Production experience with relational and NoSQL databases such as PostgreSQL and Redis.
+- Solid understanding of Cloud & DevOps tooling: AWS, Docker, Kubernetes, CI/CD pipelines.
+- Experience with Generative AI technologies, LangChain, or LLMs is highly desirable.
+- Familiarity with Snowflake, Kafka, or gRPC is a plus.
+- Excellent communication, problem solving, and mentorship skills.
