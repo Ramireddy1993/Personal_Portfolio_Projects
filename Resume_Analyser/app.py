@@ -90,7 +90,7 @@ with st.sidebar:
     st.markdown("---")
     st.header("🤖 AI Settings (Optional)")
     user_api_key = st.text_input("Gemini API Key", value=GEMINI_API_KEY, type="password", help="Needed for SWOT analysis, tailoring recommendations, and custom interview questions.")
-    model_choice = st.selectbox("Gemini Model", ["gemini-2.5-flash", "gemini-1.5-pro", "gemini-1.5-flash"], index=0)
+    model_choice = st.selectbox("Gemini Model", ["gemini-3.8-flash", "gemini-2.5-pro", "gemini-2.5-flash"], index=0)
     
     st.info("💡 Offline mode (skill matching & TF-IDF similarity) works 100% without an API key!")
 
